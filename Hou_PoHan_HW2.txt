@@ -1,1 +1,1 @@
-https://rotten-potatoes-bryan.herokuapp.com/
+https://bryanmovieapp.herokuapp.com/
